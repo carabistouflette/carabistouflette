@@ -2,7 +2,7 @@
 
 # Alexis Robin
 
-**AI master's student at Centrale Lille · Rust developer · Open-source contributor**
+**AI master's student at Centrale Lille**
 
 I work on scientific data tools, native applications and security.
 
@@ -30,7 +30,7 @@ I work on scientific data tools, native applications and security.
 
 Natural-language exploration of genomic graphs. At CIRAD, I worked on the AI agent, Neo4j queries, APIs and exports.
 
-<sub>PYTHON · FASTAPI · NEO4J</sub>
+<sub>Python, FastAPI, Neo4j</sub>
 
 [Details ↗](https://alexisrob.in/en/#projects)
 
@@ -41,7 +41,7 @@ Natural-language exploration of genomic graphs. At CIRAD, I worked on the AI age
 
 An ongoing benchmark on FDA and CMS health data, comparing graph models with simpler baselines under temporal evaluation.
 
-<sub>PYTHON · NUMPY · SCIKIT-LEARN</sub>
+<sub>Python, NumPy, scikit-learn</sub>
 
 [Code & reports ↗](https://github.com/carabistouflette/HealthGraphBench)
 
@@ -54,7 +54,7 @@ An ongoing benchmark on FDA and CMS health data, comparing graph models with sim
 
 A native Linux launcher and document search engine. I contribute to search and document processing for vector indexing.
 
-<sub>RUST · SLINT · TANTIVY</sub>
+<sub>Rust, Slint, Tantivy</sub>
 
 [Browse the code ↗](https://github.com/brio-labs/maestria/tree/dev/sillage)
 
@@ -65,7 +65,7 @@ A native Linux launcher and document search engine. I contribute to search and d
 
 A backup tool with snapshots, incremental backups, content-addressable deduplication and remote transfers.
 
-<sub>JAVA · SQLITE</sub>
+<sub>Java, SQLite</sub>
 
 [Browse the code ↗](https://github.com/carabistouflette/JustSyncIt/)
 
@@ -94,7 +94,8 @@ Outside work: hiking, photography, mountain biking, writing and electronics.
 ### Internship
 
 I'm looking for an **AI / scientific data internship**.<br>
-**22 March – 21 August 2027 · France or abroad**
+**22 March – 21 August 2027**<br>
+France or abroad
 
 <sub>Also open to an M2 apprenticeship starting September 2027.</sub>
 
