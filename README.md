@@ -20,7 +20,7 @@ I work on scientific data tools, native applications and security.
 
 <br>
 
-### Projects
+### Some of my projects
 
 <table>
 <tr>
@@ -61,13 +61,13 @@ A native Linux launcher and document search engine. I contribute to search and d
 </td>
 <td width="50%" valign="top">
 
-#### JustSyncIt
+#### Nacre
 
-A backup tool with snapshots, incremental backups, content-addressable deduplication and remote transfers.
+An experimental native compiler written in Rust, with Java-like syntax. Compiles through C11 to GCC or Clang, with an optional direct LLVM backend.
 
-<sub>Java, SQLite</sub>
+<sub>Rust, C11, LLVM</sub>
 
-[Browse the code ↗](https://github.com/carabistouflette/JustSyncIt/)
+[Details ↗](https://alexisrob.in/en/projects/nacre/)
 
 </td>
 </tr>
